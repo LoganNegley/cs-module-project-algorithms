@@ -4,6 +4,13 @@ Returns: an integer
 '''
 def single_number(arr):
     # Your code here
+    # U
+    # given a list of numbers find the number that doesn't appear twice
+    # return that number that doesn't appear twice
+    # P
+    # loop throught list 
+    # compare each num to see if any are the same
+    # return the num that appears only once
 
     pass
 
